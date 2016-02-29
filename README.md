@@ -1,2 +1,4 @@
 # golem-binary-dependencies
-Binaries (including third-party) required by Golem
+
+A repository for storing various binary dependencies for Golem, including third-party packages. 
+(Ab)uses the Github' releases feature.
